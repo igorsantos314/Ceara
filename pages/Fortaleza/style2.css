@@ -67,19 +67,21 @@ a#inicio {
 }
 /* --------> IMAGENS DO CARD <--------*/
 #cabecalho-imagem1 {
-  background: url("https://cdn.brasildefato.com.br/media/dcfd970f1709e91c01bde02efff10293.jpg")
+  /* NÃO MUDAR ESSA IMAGEM*/
+  background: url("http://1.bp.blogspot.com/-Wlx8yf6_d_8/Ug_B7H6n1eI/AAAAAAAABDU/ByQCpVvhnPs/s1600/330201_karta-mira_geograficheskaya_geografiya_materiki_1920x1080_(www.GdeFon.ru).jpg")
     center/cover;
 }
 #cabecalho-imagem2 {
-  background: url("https://www.recuperacaodedadoshd.com.br/wp-content/uploads/2020/01/Recupera%C3%A7%C3%A3o-de-dados-em-Fortaleza-Unidade-HD-Doctor.png")
+  background: url("../../images/instrucao.png")
     center/cover;
 }
 #cabecalho-imagem3 {
-  background: url("https://cdn.brasildefato.com.br/media/dcfd970f1709e91c01bde02efff10293.jpg")
+  background: url("../../images/instrucao.png")
     center/cover;
 }
 #cabecalho-imagem4 {
-  background: url("https://cdn.brasildefato.com.br/media/dcfd970f1709e91c01bde02efff10293.jpg")
+  /* NÃO MUDAR ESSA IMAGEM*/
+  background: url("https://sm.pcmag.com/pcmag_in/how-to/2/25-google-/25-google-maps-tricks-you-need-to-try_uzuw.jpg")
     center/cover;
 }
 /* ----------------*/
@@ -175,4 +177,17 @@ a#inicio {
 }
 .card--expandido .cabecalho-imagem {
   height: 100%;
+}
+
+.conteudo_tabela{
+  padding-top: 1%;
+  padding-bottom: 5%;
+}
+
+.conteudo_tabela table{
+  text-align: center;
+}
+
+.mapa{
+  padding-bottom: 3%;
 }
